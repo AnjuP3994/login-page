@@ -20,7 +20,7 @@ function App() {
                     <input type="text" className='form-control' placeholder='Enter your email' />
                     <input type="text" className='form-control mt-3' placeholder='Enter your password' />
                   </div>
-                  <a href="#!" className='text-decoration-none'>Forgot password?</a>
+                  <a href="#!" className='text-decoration-none'>password</a>
                   <div className='text-center'>
                     <button className='btn btn-primary mt-2 mb-3'>Login</button>
                     <p>New user? <a href="#!" className='text-decoration-none'>Sign up</a></p>
